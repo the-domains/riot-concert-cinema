@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[RIOT! Concert Cinema]]></title>
-        <description><![CDATA[RIOT! Concert Cinema]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Cinematic Concert Videos For All]]></title>
+        <description><![CDATA[Cinematic Concert Videos For All]]></description>
+        <link>https://thegrid.ai/riot-concert-cinema/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 00:39:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 23:49:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/riot-concert-cinema/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://vimeo.com/129865122</p>]]></description>
+            <link>https://thegrid.ai/riot-concert-cinema/4979b970-8bb0-479b-a0a2-41d6cc9c83de/index.html</link>
+            <guid isPermaLink="false">4979b970-8bb0-479b-a0a2-41d6cc9c83de</guid>
+            <pubDate>Thu, 18 Feb 2016 23:46:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Trims - Now Youre Gone FINAL]]></title>
             <description><![CDATA[<article><h1>The Trims - Now Youre Gone FINAL</h1><p>This is "The Trims - Now Youre Gone FINAL" by riotconcertcinema on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35c5a000647eba60ed76e7990f19e2cf7f9b77f7.jpg"></article>]]></description>
